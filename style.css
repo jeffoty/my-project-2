@@ -12,9 +12,9 @@
 :root {
     --main-color: #ffb43a;
     --hover-color: hsl(37, 94%, 57%);
-    --body-color: #1e1e2a;
+    --body-color: #ADD8E6;
     --container-color: #2d2e37;
-    --text-color: #fcfeff;
+    --text-color: #101111;
   }
 a{
     text-decoration: none;
